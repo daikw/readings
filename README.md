@@ -1,7 +1,5 @@
 # readings
 
-this repo contains:
-
-- Personally reading memos
-- Paper recommendations from AI
+- Human's reading memos
+- Paper recommendations / notes produced by AI agents (mainly by Codex CLI)
 
