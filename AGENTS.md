@@ -15,3 +15,5 @@ Types and Templates
 - Auxiliary: `dataset_note`, `benchmark_brief`, `concept_primer`, `prompt_recipe`.
 - Templates are available under `flow/template/` for each type.
 
+Readability Policy (Agent)
+- Prefer the arXiv HTML version for extracting and summarizing the main text, and use the PDF version to supplement figures/tables and layout checks.
