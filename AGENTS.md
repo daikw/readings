@@ -3,6 +3,7 @@
 Scope
 - This file defines how agents should create and maintain research/implementation notes under `flow/` directory.
 - Detailed specifications live in `@docs/flow-notes-spec.md`.
+- `repos/` directory is used to store the source code sited in the articles. It is not tracked by git.
 
 Key Rules
 - Use YAML front matter with the required fields before any content.
