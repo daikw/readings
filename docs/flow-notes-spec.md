@@ -43,23 +43,23 @@ Section Structures
 - `reading_list`
   - Purpose/Scope, Selection Criteria, Candidates (title + 1-line reason), Next Actions, References.
 - `paper_note`
-  - TL;DR, Background/Contributions, Method/Setup, Results/Limitations, Insights/Questions, References.
+  - TL;DR, Background/Contributions, Terminology, Method/Setup, Results/Limitations, Insights/Questions, References.
 - `mini_survey`
-  - Scope/Criteria, Per-paper Summaries (1–3 lines), Comparison/Differences, Gaps, Next Actions, References.
+  - Scope/Criteria, Terminology, Per-paper Summaries (1–3 lines), Comparison/Differences, Gaps, Next Actions, References.
 - `synthesis`
-  - Central Claim, Evidence (bullets), Counterexamples/Limits, Implications (design/research), To‑Do, References.
+  - Central Claim, Terminology, Evidence (bullets), Counterexamples/Limits, Implications (design/research), To‑Do, References.
 - `critique`
-  - Claim Summary, Strengths, Weaknesses/Assumptions, Failure Modes, Validation Plan, References.
+  - Claim Summary, Terminology, Strengths, Weaknesses/Assumptions, Failure Modes, Validation Plan, References.
 - `replication`
-  - Goal/Scope, Env/Assets, Procedure, Metrics/Acceptance, Risks/Mitigation, Next Actions.
+  - Goal/Scope, Terminology, Env/Assets, Procedure, Metrics/Acceptance, Risks/Mitigation, Next Actions.
 - `experiment_log`
   - Hypothesis, Design (variables/conditions), Execution/Observations, Results, Decision, Next Actions.
 - `roadmap`
   - Objective/Scope, Milestones, Tasks (priority/effort), Risks, Success Metrics, Timeline.
 - `dataset_note`
-  - Overview, Schema/Labels, Splits/Stats, Quality/Issues, Usage/License, References.
+  - Overview, Terminology, Schema/Labels, Splits/Stats, Quality/Issues, Usage/License, References.
 - `benchmark_brief`
-  - Task Definition, Metrics, Protocol, Baselines, Caveats, References.
+  - Task Definition, Terminology, Metrics, Protocol, Baselines, Caveats, References.
 - `concept_primer`
   - Concept Summary, Core Ideas, Typical Pitfalls, Canonical Examples, References.
 - `prompt_recipe`
@@ -70,4 +70,3 @@ Generation Prompt (for agents)
 - Language: Japanese by default. Use concise bullets (one line per point when possible).
 - Use only Markdown headings and bullets; avoid heavy tables/footnotes.
 - Cite sources by stable IDs (arXiv/DOI/URL) in the References section.
-
